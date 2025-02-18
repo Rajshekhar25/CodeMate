@@ -59,5 +59,6 @@ main .right{
   background-color:rgb(88, 87, 87);
   padding: 1rem 2rem;
   font-size:1.3rem;
+  overflow:auto;
 
 }

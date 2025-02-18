@@ -1,3 +1,7 @@
+//SOME ERROR HANDLING NEEDS TO BE TAKEN CARE OF HERE.
+//RATE LIMITER AND STUFF
+
+
 const express = require('express')
 const aiRoutes = require('./routes/ai.routes')
 const cors = require('cors')
